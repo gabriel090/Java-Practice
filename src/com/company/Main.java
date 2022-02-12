@@ -10,7 +10,13 @@ public class Main {
 
         }
     }
+   public  class  InterfaceExample implements com.company.InterfaceExample{
 
+       @Override
+       public void fillUP() {
+
+       }
+   }
     public static void main(String[] args) {
         int a = 20; int b = 10;
 	My_Calculations demo = new My_Calculations();
