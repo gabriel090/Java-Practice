@@ -1,0 +1,11 @@
+Enumerated Types
+An enum is a language construct that is used to define type-safe
+enumerations which can be used when a fixed set of named values is desired
+-Declaration defines an enum type which is very simple to a class in
+that it may have members such as fields.
+-
+------------ENUM TYPES----------
+An enum type is a special data type that enables 1for a variable to be a set
+of predefined constants. the variable must be equal to be equal to one of the
+values that have been predefined for it.
+Common examples include compass directions
